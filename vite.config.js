@@ -12,10 +12,10 @@ export default defineConfig({
   },
   server: {
     allowedHosts: [
+      'golddecor.com.vn',
+      '.golddecor.com.vn',
       'qmcloud.io.vn',
-      'gold.qmcloud.io.vn',
-      'silver.qmcloud.io.vn',
-      'scooper.qmcloud.io.vn',
+      '.qmcloud.io.vn'
     ],
     host: true
   }
