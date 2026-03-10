@@ -140,7 +140,7 @@ const HomePage = () => {
       <section className="py-16 md:py-24 bg-gradient-to-br from-[#1a1a1a] to-black">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <SectionTitle subtitle="Thi Công Nội Thất Chất Lượng Cao">
-            Về GOLDDECOR
+            Về GOLD DECOR
           </SectionTitle>
 
           <motion.div initial={{
