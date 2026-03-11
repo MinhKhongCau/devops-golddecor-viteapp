@@ -37,7 +37,7 @@ const HomePage = () => {
   }];
   return <>
       <Helmet>
-        <title>GOLDDECOR - Vật Liệu Xây Dựng & Nội Thất Cao Cấp</title>
+        <title>GOLD DECOR - Vật Liệu Xây Dựng & Nội Thất Cao Cấp</title>
         <meta name="description" content="Khám phá chất lượng vượt trội trong từng chi tiết. Golddecor cung cấp vật liệu xây dựng cao cấp và nội thất sang trọng cho các dự án đẳng cấp." />
       </Helmet>
 
